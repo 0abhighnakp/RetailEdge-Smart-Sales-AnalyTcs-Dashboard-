@@ -34,13 +34,9 @@ The dataset used for this analysis is a Kaggle sales dataset. It contains inform
 Key Findings:
 Based on the analysis, here are the key insights:
 
-[Insert your top finding here, e.g., "December was the highest-grossing month, likely due to holiday sales."].
+In 2019,San Francisco have the most sales followed by Los Angeles.
 
-[Insert your second finding here, e.g., "San Francisco had the highest sales, suggesting it's a key market."].
-
-[Insert your third finding here, e.g., "The most common product combination sold together was the iPhone and Lighting Cable."].
-
-[Insert any other key findings you discovered during your analysis].
+Macbook Pro Laptop has highest sale more than 750K.
 
 Interactive Dashboard
 To explore the findings in an interactive format, please visit the Tableau Public dashboard:
